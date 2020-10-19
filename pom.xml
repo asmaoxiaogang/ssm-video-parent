@@ -13,6 +13,7 @@
         <module>ssm-video-dao</module>
         <module>ssm-video-pojo</module>
         <module>ssm-video-web</module>
+        <module>ssm-video-web</module>
     </modules>
 
 
