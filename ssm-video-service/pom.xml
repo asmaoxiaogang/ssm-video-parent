@@ -11,5 +11,11 @@
 
     <artifactId>ssm-video-service</artifactId>
     <packaging>jar</packaging>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.qf</groupId>
+            <artifactId>ssm-video-dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

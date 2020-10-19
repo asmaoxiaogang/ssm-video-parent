@@ -11,7 +11,9 @@
 
     <artifactId>ssm-video-dao</artifactId>
     <packaging>jar</packaging>
+
     <dependencies>
+
         <dependency>
             <groupId>com.qf</groupId>
             <artifactId>ssm-video-pojo</artifactId>

@@ -1,5 +1,8 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<%--<%--%>
+<%--    request.getRequestDispatcher("/subject/selectAll").forward(request,response);--%>
+<%--%>--%>
+<h1>helloword</h1>
 </body>
 </html>
